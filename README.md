@@ -1,32 +1,5 @@
 <!DOCTYPE html>
 <html>
-<head>
-  <title>README - Huracán en Acapulco</title>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <style>
-    body {
-      font-family: Arial, sans-serif;
-      margin: 20px;
-    }
-    h1 {
-      font-size: 36px;
-      color: #00698f;
-    }
-    h2 {
-      font-size: 24px;
-      color: #0085ca;
-    }
-    ul {
-      list-style: none;
-      padding: 0;
-      margin: 0;
-    }
-    li {
-      margin-bottom: 10px;
-    }
-  </style>
-</head>
 <body>
   <h1>Huracán en Acapulco</h1>
   <p>Este proyecto es un sitio web que proporciona información sobre el huracán que afectó a Acapulco en 2013.</p>
